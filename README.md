@@ -1,2 +1,2 @@
 # quiz-tools
-Repo to store Quiz Questions, tools, software formats
+Repo to store Quiz Questions, tools, softwares, formats
